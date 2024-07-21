@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahri Dağdadurmaz</h1>
 <h3 align="center">I work in the field of Linux and Cyber ​​Security.</h3>
 <img algin="right" alt="coding" width=400 src="https://giphy.com/embed/o0vwzuFwCGAFO">
+<iframe src="https://giphy.com/embed/o0vwzuFwCGAFO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdagdadurmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fdagdadurmaz" /> </p>
 
