@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahri Dağdadurmaz</h1>
 <h3 align="center">I work in the field of Linux and Cyber ​​Security.</h3>
-<img algn="center" alt="coding" width=400 src="https://steamuserimages-a.akamaihd.net/ugc/770525868201170707/8049DF70E3368B02787CA5ADED20FB3C7573EC2C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" alt="coding" width=400 src="https://steamuserimages-a.akamaihd.net/ugc/770525868201170707/8049DF70E3368B02787CA5ADED20FB3C7573EC2C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdagdadurmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fdagdadurmaz" /> </p>
 
